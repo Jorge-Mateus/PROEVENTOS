@@ -1,0 +1,12 @@
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.deps.json
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Domain\bin\Debug\net5.0\ref\ProEventos.Domain.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.pdb
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csprojAssemblyReference.cache
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfoInputs.cache
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfo.cs
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb

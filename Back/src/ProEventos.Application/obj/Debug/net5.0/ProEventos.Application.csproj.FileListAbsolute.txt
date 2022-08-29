@@ -1,0 +1,17 @@
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.deps.json
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ref\ProEventos.Application.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.pdb
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.pdb
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.pdb
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csprojAssemblyReference.cache
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfoInputs.cache
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfo.cs
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CopyComplete
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ref\ProEventos.Application.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.pdb

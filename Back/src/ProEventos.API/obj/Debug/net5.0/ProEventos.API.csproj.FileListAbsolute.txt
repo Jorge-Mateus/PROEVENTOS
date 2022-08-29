@@ -55,3 +55,13 @@ E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.AP
 E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Application.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Domain.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Persistence.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Application.pdb
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Domain.pdb
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Persistence.pdb
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Usuários\jorge.nascimento\Documents\GitHub\PROEVENTOS\back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
