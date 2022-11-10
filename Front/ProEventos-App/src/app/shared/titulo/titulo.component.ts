@@ -18,10 +18,8 @@ export class TituloComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  listar():void{
-    this.titulo.trim();
-    this.router.navigate([`/${this.titulo.toLocaleLowerCase()}/lista`]);
-
-  }
+listar(): void{
+  this.router.navigate([`/${this.titulo.toLocaleLowerCase()}/lista`]);
+}
 
 }

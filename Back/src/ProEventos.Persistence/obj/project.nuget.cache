@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iSJuRGpR8XJYebtazWFxj3Tq0zTmsVEjKuqSWSiSETZ1p1p3PB/WAimA6p9ahlLuyFjKGZj5n276pEGxRVNd8Q==",
+  "dgSpecHash": "8FKTH6PUwV1MRjKqBj64LU7KCZpEq3HyTgSx3TYfulaEm6fJHnmHWOy1V9CCi3TjU3ViIqCdXHrY11U9d7urmw==",
   "success": true,
-  "projectFilePath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
+  "projectFilePath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
   "expectedPackageFiles": [
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

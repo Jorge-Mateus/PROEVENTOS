@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WaR6VjDV3FjEUzHbc/dP+rNdqdJ5/ln5TsDCnmH7M/xgsuYX7ENgLUrij0gYNW7G1RMfK0jrIDALkZsXyc/xRA==",
+  "dgSpecHash": "sE5XC5K+TGvqGzylLQxp7w7K3NMYTtLN5XgUglPmUCIB1UrTe72sCKYWzspsm2IKGFbxxTZkQJj3krSez4QQ1w==",
   "success": true,
-  "projectFilePath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
+  "projectFilePath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
   "expectedPackageFiles": [
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.2\\microsoft.data.sqlite.core.5.0.2.nupkg.sha512",
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

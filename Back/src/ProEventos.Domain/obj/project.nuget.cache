@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cLcqIUuNT/v2yuHGQ2rdVc3RZUkL8Csnja57Y/Rj1XEGt7EM7AXk2VhYL0CJxVMtmE4RX7cH4RSyBcc6nh/3AQ==",
+  "dgSpecHash": "ihdvbkdqGp34TOiG/TsbO/UEYwRFHZ8o+Moxttc4KLv8j/w0bZHR5E/Egm7IKIoJ8FKY6/4GxbyKZtGfL02hKA==",
   "success": true,
-  "projectFilePath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+  "projectFilePath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

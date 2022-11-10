@@ -1491,11 +1491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectUniqueName": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "projectName": "ProEventos.API",
-      "projectPath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectPath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "packagesPath": "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\",
-      "outputPath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\Back\\src\\ProEventos.API\\obj\\",
+      "outputPath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\back\\src\\ProEventos.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1521,8 +1521,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj": {
-              "projectPath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj"
+            "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\back\\src\\ProEventos.Application\\ProEventos.Application.csproj": {
+              "projectPath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\back\\src\\ProEventos.Application\\ProEventos.Application.csproj"
             }
           }
         }

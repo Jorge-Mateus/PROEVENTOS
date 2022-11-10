@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bdMatiIPN3Ujdk7RPm37lAJuX0rUTcojLYeefMx3TSILe8lqskRPzfBZKFwHfR3xvQX6aRarEHES8+pe7skE9g==",
+  "dgSpecHash": "Hmh8SVQ/O8zPxFftspsveqRHZOKTD+pEy/Y4w6n5OOcdAmwvy2fzzs51u5qjglAsDGXqU/j61VrE6j6bj5I9Vw==",
   "success": true,
-  "projectFilePath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "E:\\Usuários\\jorge.nascimento\\Documents\\GitHub\\PROEVENTOS\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.2\\microsoft.aspnetcore.jsonpatch.5.0.2.nupkg.sha512",
